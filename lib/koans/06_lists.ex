@@ -1,4 +1,4 @@
-defmodule Lists do
+  defmodule Lists do
   use Koans
 
   @intro "Lists"
